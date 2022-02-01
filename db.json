@@ -84,6 +84,7 @@
             "tokenId": "86291636989756", 
             "refId": "61927b3cdc1ef1a7e07c1590"
          },
+
          "type": {
             "nameHeroes":"Four",
             "priceUsd":500,
@@ -93,6 +94,7 @@
             "class":"Tank",
             "skin":"Rare"
          },
+
          "infoHeroes": {
             "hp":5000,
             "dmg":600,
@@ -107,6 +109,44 @@
             "winBonus":3,
             "daily_Battles":25,
             "trophyCLass":"D"
+         }
+
+      },
+
+      {
+         "id":"21927b3c1f62e04882ssc122",
+         "created":"2021-11-15T15:23:36.196Z",
+         "img":"https://assets.thetanarena.com/skin/avatar/1002.png",
+         "userInfo": {
+            "ownerId": "619279f83e00df6b8f8b7bfa",
+            "ownerAddress": "0x8a12245b67ebd013b62fee4d2706df626bef798a", 
+            "tokenId": "86291636989756", 
+            "refId": "61927b3cdc1ef1a7e07c1590"
+         },
+
+         "type": {
+            "nameHeroes":"Free",
+            "priceUsd":400,
+            "priceCrypto":4,
+            "offer":"Rent",
+            "rarity":"Legendary",
+            "class":"Assasin",
+            "skin":"Normal"
+         },
+         "infoHeroes": {
+            "hp":1000,
+            "dmg":520,
+            "level":3,
+            "att_spd":3,
+            "speed":3.3,
+            "battle":55,
+            "battleMax":200,
+            "battleWin":3,
+            "battleDraw":1,
+            "battleLose":0,
+            "winBonus":1.5,
+            "daily_Battles":2,
+            "trophyCLass":"F"
          }
       }
    ]
