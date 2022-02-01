@@ -222,6 +222,43 @@
             "daily_Battles":10,
             "trophyCLass":"S"
          }
+      },
+
+      {
+         "id":"0m_FCCuJIeyoXhN520GO",
+         "created":"2021-11-15T15:23:36.196Z",
+         "img":"https://assets.thetanarena.com/skin/avatar/0.png",
+         "userInfo": {
+            "ownerId": "619279f83e00df6b8f8b7bfa",
+            "ownerAddress": "0x8a12245b67ebd013b62fee4d2706df626bef798a", 
+            "tokenId": "86291636989756", 
+            "refId": "61927b3cdc1ef1a7e07c1590"
+         },
+
+         "type": {
+            "nameHeroes":"Seven",
+            "priceUsd":400,
+            "priceCrypto":4,
+            "offer":"Sale",
+            "rarity":"Epic",
+            "class":"Marksman",
+            "skin":"Mythical"
+         },
+         "infoHeroes": {
+            "hp":200,
+            "dmg":300,
+            "att_spd":1.5,
+            "speed":2,
+            "level":3,
+            "battle":5,
+            "battleMax":150,
+            "battleWin":4,
+            "battleDraw":1,
+            "battleLose":3,
+            "winBonus":1,
+            "daily_Battles":4,
+            "trophyCLass":"A"
+         }
       }
    ]
 }
