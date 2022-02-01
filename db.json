@@ -148,6 +148,43 @@
             "daily_Battles":2,
             "trophyCLass":"F"
          }
+      },
+
+      {
+         "id":"61927b3c1f62e04881bc125d",
+         "created":"2021-11-15T15:23:36.196Z",
+         "img":"https://assets.thetanarena.com/skin/avatar/15002.png",
+         "userInfo": {
+            "ownerId": "619279f83e00df6b8f8b7bfa",
+            "ownerAddress": "0x8a12245b67ebd013b62fee4d2706df626bef798a", 
+            "tokenId": "86291636989756", 
+            "refId": "61927b3cdc1ef1a7e07c1590"
+         },
+
+         "type": {
+            "nameHeroes":"Two",
+            "priceUsd":400,
+            "priceCrypto":4,
+            "offer":"Rent",
+            "rarity":"Epic",
+            "class":"Marksman",
+            "skin":"Mythical"
+         },
+         "infoHeroes": {
+            "hp":2000,
+            "dmg":220,
+            "att_spd":1,
+            "speed":2,
+            "level":2,
+            "battle":15,
+            "battleMax":350,
+            "battleWin":7,
+            "battleDraw":10,
+            "battleLose":5,
+            "winBonus":5.5,
+            "daily_Battles":3,
+            "trophyCLass":"H"
+         }
       }
    ]
 }
