@@ -1,0 +1,521 @@
+{
+   "marcket":[
+      {
+         "id":"61927b3c1f62e04881bc188c",
+         "created":"2021-11-15T15:22:36.196Z",
+         "img":"https://assets.thetanarena.com/skin/avatar/5002.png",
+         "userInfo": {
+            "ownerId": "619279f83e00ff3b8f8b7bfa",
+            "ownerAddress": "0x8a12245b67ebd013b62fee4d2706df626bef798a", 
+            "tokenId": "86291636989756", 
+            "refId": "61927b3cdc1ef1a7e07c1590"
+         },
+
+         "type": {
+            "nameHeroes":"One",
+            "priceUsd":200,
+            "priceCrypto":2,
+            "offer":"Rent",
+            "rarity":"Common",
+            "class":"Tank",
+            "skin":"Mythical"
+         },
+         "infoHeroes": {
+            "hp":2400,
+            "dmg":420,
+            "att_spd":1.5,
+            "speed":1.5,
+            "level":1,
+            "battle":24,
+            "battleMax":150,
+            "battleWin":6,
+            "battleDraw":2,
+            "battleLose":1,
+            "winBonus":8.5,
+            "daily_Battles":10,
+            "trophyCLass":"G"
+         }
+      },
+
+      {
+         "id":"61927b3c1f62e04881bc125d",
+         "created":"2021-11-15T15:23:36.196Z",
+         "img":"https://assets.thetanarena.com/skin/avatar/15002.png",
+         "userInfo": {
+            "ownerId": "619279f83e00df6b8f8b7bfa",
+            "ownerAddress": "0x8a12245b67ebd013b62fee4d2706df626bef798a", 
+            "tokenId": "86291636989756", 
+            "refId": "61927b3cdc1ef1a7e07c1590"
+         },
+
+         "type": {
+            "nameHeroes":"Two",
+            "priceUsd":400,
+            "priceCrypto":4,
+            "offer":"Rent",
+            "rarity":"Epic",
+            "class":"Marksman",
+            "skin":"Mythical"
+         },
+         "infoHeroes": {
+            "hp":2000,
+            "dmg":220,
+            "att_spd":1,
+            "speed":2,
+            "level":2,
+            "battle":15,
+            "battleMax":350,
+            "battleWin":7,
+            "battleDraw":10,
+            "battleLose":5,
+            "winBonus":5.5,
+            "daily_Battles":3,
+            "trophyCLass":"H"
+         }
+      },
+
+      {
+         "id":"21927b3c1f62e04882ssc122",
+         "created":"2021-11-15T15:23:36.196Z",
+         "img":"https://assets.thetanarena.com/skin/avatar/1002.png",
+         "userInfo": {
+            "ownerId": "619279f83e00df6b8f8b7bfa",
+            "ownerAddress": "0x8a12245b67ebd013b62fee4d2706df626bef798a", 
+            "tokenId": "86291636989756", 
+            "refId": "61927b3cdc1ef1a7e07c1590"
+         },
+
+         "type": {
+            "nameHeroes":"Free",
+            "priceUsd":400,
+            "priceCrypto":4,
+            "offer":"Rent",
+            "rarity":"Legendary",
+            "class":"Assasin",
+            "skin":"Normal"
+         },
+         "infoHeroes": {
+            "hp":1000,
+            "dmg":520,
+            "level":3,
+            "att_spd":3,
+            "speed":3.3,
+            "battle":55,
+            "battleMax":200,
+            "battleWin":3,
+            "battleDraw":1,
+            "battleLose":0,
+            "winBonus":1.5,
+            "daily_Battles":2,
+            "trophyCLass":"F"
+         }
+      },
+
+      {
+         "id":"21927b3c1f62e04882asc123",
+         "created":"2021-11-15T15:23:36.196Z",
+         "img":"https://assets.thetanarena.com/skin/avatar/1001.png",
+         "userInfo": {
+            "ownerId": "619279f83e00df6b8f8b7bfa",
+            "ownerAddress": "0x8a12245b67ebd013b62fee4d2706df626bef798a", 
+            "tokenId": "86291636989756", 
+            "refId": "61927b3cdc1ef1a7e07c1590"
+         },
+
+         "type": {
+            "nameHeroes":"Free",
+            "priceUsd":500,
+            "priceCrypto":5,
+            "rarity":"Legendary",
+            "offer":"Sale",
+            "class":"Tank",
+            "skin":"Rare"
+         },
+         "infoHeroes": {
+            "hp":5000,
+            "dmg":600,
+            "level":5,
+            "att_spd":4,
+            "speed":0.5,
+            "battle":68,
+            "battleMax":240,
+            "battleWin":15,
+            "battleDraw":0,
+            "battleLose":7,
+            "winBonus":2.2,
+            "daily_Battles":15,
+            "trophyCLass":"E"
+         }
+      },  
+
+      {
+         "id":"mPSS5dd2tkReavOycpkf",
+         "created":"2021-11-15T15:23:36.196Z",
+         "img":"https://assets.thetanarena.com/skin/avatar/8001.png",
+         "userInfo": {
+            "ownerId": "619279f83e00df6b8f8b7bfa",
+            "ownerAddress": "0x8a12245b67ebd013b62fee4d2706df626bef798a", 
+            "tokenId": "86291636989756", 
+            "refId": "61927b3cdc1ef1a7e07c1590"
+         },
+
+         "type": {
+            "nameHeroes":"Four",
+            "priceUsd":500,
+            "priceCrypto":5,
+            "rarity":"Legendary",
+            "offer":"Sale",
+            "class":"Tank",
+            "skin":"Rare"
+         },
+         "infoHeroes": {
+            "hp":5000,
+            "dmg":600,
+            "att_spd":2,
+            "speed":0.5,
+            "level":5,
+            "battle":68,
+            "battleMax":240,
+            "battleWin":25,
+            "battleDraw":6,
+            "battleLose":10,
+            "winBonus":3,
+            "daily_Battles":25,
+            "trophyCLass":"D"
+         }
+      },
+
+      {
+         "id":"uykSRwlEGcT6LB0vsCto",
+         "created":"2021-11-15T15:23:36.196Z",
+         "img":"https://assets.thetanarena.com/skin/avatar/4002.png",
+         "userInfo": {
+            "ownerId": "619279f83e00df6b8f8b7bfa",
+            "ownerAddress": "0x8a12245b67ebd013b62fee4d2706df626bef798a", 
+            "tokenId": "86291636989756", 
+            "refId": "61927b3cdc1ef1a7e07c1590"
+         },
+
+         "type": {
+            "nameHeroes":"Five",
+            "priceUsd":100,
+            "priceCrypto":1,
+            "offer":"Rent",
+            "rarity":"Common",
+            "class":"Assasin",
+            "skin":"Normal"
+         },
+         "infoHeroes": {
+            "hp":500,
+            "dmg":1500,
+            "att_spd":3,
+            "speed":2,
+            "level":2,
+            "battle":3,
+            "battleMax":50,
+            "battleWin":3,
+            "battleDraw":4,
+            "battleLose":7,
+            "winBonus":0,
+            "daily_Battles":2,
+            "trophyCLass":"C"
+         }
+      },
+
+      {
+         "id":"naig_5mQMFN0aY1nIujL",
+         "created":"2021-11-15T15:23:36.196Z",
+         "img":"https://assets.thetanarena.com/skin/avatar/2002.png",
+         "userInfo": {
+            "ownerId": "619279f83e00df6b8f8b7bfa",
+            "ownerAddress": "0x8a12245b67ebd013b62fee4d2706df626bef798a", 
+            "tokenId": "86291636989756", 
+            "refId": "61927b3cdc1ef1a7e07c1590"
+         },
+
+         "type": {
+            "nameHeroes":"Six",
+            "priceUsd":400,
+            "priceCrypto":4,
+            "rarity":"Epic",
+            "offer":"Sale",
+            "class":"Assasin",
+            "skin":"Mythical"
+         },
+         "infoHeroes": {
+            "hp":800,
+            "dmg":2000,
+            "att_spd":2,
+            "speed":2,
+            "level":1,
+            "battle":16,
+            "battleMax":150,
+            "battleWin":29,
+            "battleDraw":16,
+            "battleLose":2,
+            "winBonus":8,
+            "daily_Battles":3,
+            "trophyCLass":"B"
+         }
+      },
+
+      {
+         "id":"0m_FCCuJIeyoXhN520GO",
+         "created":"2021-11-15T15:23:36.196Z",
+         "img":"https://assets.thetanarena.com/skin/avatar/0.png",
+         "userInfo": {
+            "ownerId": "619279f83e00df6b8f8b7bfa",
+            "ownerAddress": "0x8a12245b67ebd013b62fee4d2706df626bef798a", 
+            "tokenId": "86291636989756", 
+            "refId": "61927b3cdc1ef1a7e07c1590"
+         },
+
+         "type": {
+            "nameHeroes":"Seven",
+            "priceUsd":400,
+            "priceCrypto":4,
+            "offer":"Sale",
+            "rarity":"Epic",
+            "class":"Marksman",
+            "skin":"Mythical"
+         },
+         "infoHeroes": {
+            "hp":200,
+            "dmg":300,
+            "att_spd":1.5,
+            "speed":2,
+            "level":3,
+            "battle":5,
+            "battleMax":150,
+            "battleWin":4,
+            "battleDraw":1,
+            "battleLose":3,
+            "winBonus":1,
+            "daily_Battles":4,
+            "trophyCLass":"A"
+         }
+      },
+
+      {
+         "id":"61927f5h1f62e04881bc188c",
+         "created":"2021-11-15T15:22:36.196Z",
+         "img":"https://assets.thetanarena.com/skin/avatar/5002.png",
+         "userInfo": {
+            "ownerId": "619279f83e01ff3b8f8b7bfa",
+            "ownerAddress": "0x8a12245b87ebd013b62fee4d2706df626bef798a", 
+            "tokenId": "86292636989756", 
+            "refId": "61927b3cdc1ef1a7e07c1590"
+         },
+
+         "type": {
+            "nameHeroes":"Eight",
+            "priceUsd":900,
+            "priceCrypto":9,
+            "offer":"Rent",
+            "rarity":"Epic",
+            "class":"Tank",
+            "skin":"Mythical"
+         },
+         "infoHeroes": {
+            "hp":5400,
+            "dmg":720,
+            "att_spd":2.5,
+            "speed":1,
+            "level":5,
+            "battle":1,
+            "battleMax":250,
+            "battleWin":6,
+            "battleDraw":2,
+            "battleLose":1,
+            "winBonus":8.5,
+            "daily_Battles":10,
+            "trophyCLass":"S"
+         }
+      },
+
+      {
+         "id":"21927f5h1f62e04881bc188c",
+         "created":"2021-11-15T15:22:36.196Z",
+         "img":"https://assets.thetanarena.com/skin/avatar/5002.png",
+         "userInfo": {
+            "ownerId": "619279f83e01ff3b8f8b7bfa",
+            "ownerAddress": "0x8a12245b87ebd013b62fee4d2706df626bef798a", 
+            "tokenId": "86292636989756", 
+            "refId": "61927b3cdc1ef1a7e07c1590"
+         },
+
+         "type": {
+            "nameHeroes":"Nine",
+            "priceUsd":900,
+            "priceCrypto":9,
+            "offer":"Rent",
+            "rarity":"Epic",
+            "class":"Tank",
+            "skin":"Mythical"
+         },
+         "infoHeroes": {
+            "hp":5400,
+            "dmg":720,
+            "att_spd":2.5,
+            "speed":1,
+            "level":5,
+            "battle":1,
+            "battleMax":250,
+            "battleWin":6,
+            "battleDraw":2,
+            "battleLose":1,
+            "winBonus":8.5,
+            "daily_Battles":10,
+            "trophyCLass":"SS"
+         }
+      },
+
+      {
+         "id":"61927g5h1f62e04881bc188c",
+         "created":"2021-11-15T15:22:36.196Z",
+         "img":"https://assets.thetanarena.com/skin/avatar/5002.png",
+         "userInfo": {
+            "ownerId": "619279f83e01ff3b8f8b7bfa",
+            "ownerAddress": "0x8a12245b87ebd013b62fee4d2706df626bef798a", 
+            "tokenId": "86292636989756", 
+            "refId": "61927b3cdc1ef1a7e07c1590"
+         },
+
+         "type": {
+            "nameHeroes":"Eight",
+            "priceUsd":900,
+            "priceCrypto":0,
+            "offer":"Rent",
+            "rarity":"Epic",
+            "class":"Tank",
+            "skin":"Mythical"
+         },
+         "infoHeroes": {
+            "hp":5400,
+            "dmg":720,
+            "att_spd":2.5,
+            "speed":1,
+            "level":5,
+            "battle":1,
+            "battleMax":250,
+            "battleWin":6,
+            "battleDraw":2,
+            "battleLose":1,
+            "winBonus":8.5,
+            "daily_Battles":10,
+            "trophyCLass":"S"
+         }
+      },
+
+      {
+         "id":"61927f5h1f62e04881bc148c",
+         "created":"2021-11-15T15:22:36.196Z",
+         "img":"https://assets.thetanarena.com/skin/avatar/5002.png",
+         "userInfo": {
+            "ownerId": "619279f83e01ff3b8f8b7bfa",
+            "ownerAddress": "0x8a12245b87ebd013b62fee4d2706df626bef798a", 
+            "tokenId": "86292636989756", 
+            "refId": "61927b3cdc1ef1a7e07c1590"
+         },
+
+         "type": {
+            "nameHeroes":"Eight",
+            "priceUsd":900,
+            "priceCrypto":0,
+            "offer":"Rent",
+            "rarity":"Epic",
+            "class":"Tank",
+            "skin":"Mythical"
+         },
+         "infoHeroes": {
+            "hp":5400,
+            "dmg":720,
+            "att_spd":2.5,
+            "speed":1,
+            "level":5,
+            "battle":1,
+            "battleMax":250,
+            "battleWin":6,
+            "battleDraw":2,
+            "battleLose":1,
+            "winBonus":8.5,
+            "daily_Battles":10,
+            "trophyCLass":"C"
+         }
+      },
+
+      {
+         "id":"61927f5h1f62e04881bc388c",
+         "created":"2021-11-15T15:22:36.196Z",
+         "img":"https://assets.thetanarena.com/skin/avatar/5003.png",
+         "userInfo": {
+            "ownerId": "619279f83e01ff3b8f8b7bfa",
+            "ownerAddress": "0x8a12245b87ebd013b62fee4d2706df626bef798a", 
+            "tokenId": "86292636989756", 
+            "refId": "61927b3cdc1ef1a7e07c1590"
+         },
+
+         "type": {
+            "nameHeroes":"Eight",
+            "priceUsd":900,
+            "priceCrypto":0,
+            "offer":"Rent",
+            "rarity":"Epic",
+            "class":"Tank",
+            "skin":"Mythical"
+         },
+         "infoHeroes": {
+            "hp":5400,
+            "dmg":720,
+            "att_spd":2.5,
+            "speed":1,
+            "level":5,
+            "battle":1,
+            "battleMax":250,
+            "battleWin":6,
+            "battleDraw":2,
+            "battleLose":1,
+            "winBonus":8.5,
+            "daily_Battles":10,
+            "trophyCLass":"D"
+         }
+      },
+
+      {
+         "id":"61927f5h1f62e04881bc187c",
+         "created":"2021-11-15T15:22:36.196Z",
+         "img":"https://assets.thetanarena.com/skin/avatar/5001.png",
+         "userInfo": {
+            "ownerId": "619279f83e01ff3b8f8b7bfa",
+            "ownerAddress": "0x8a12245b87ebd013b62fee4d2706df626bef798a", 
+            "tokenId": "86292636989756", 
+            "refId": "61927b3cdc1ef1a7e07c1590"
+         },
+
+         "type": {
+            "nameHeroes":"Eight",
+            "priceUsd":900,
+            "priceCrypto":0,
+            "offer":"Rent",
+            "rarity":"Epic",
+            "class":"Tank",
+            "skin":"Mythical"
+         },
+         "infoHeroes": {
+            "hp":5400,
+            "dmg":720,
+            "att_spd":2.5,
+            "speed":1,
+            "level":5,
+            "battle":1,
+            "battleMax":250,
+            "battleWin":6,
+            "battleDraw":2,
+            "battleLose":1,
+            "winBonus":8.5,
+            "daily_Battles":10,
+            "trophyCLass":"A"
+         }
+      }
+   ]
+}
