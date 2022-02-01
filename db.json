@@ -35,6 +35,79 @@
             "daily_Battles":10,
             "trophyCLass":"G"
          }
+      },
+
+      {
+         "id":"21927b3c1f62e04882asc123",
+         "created":"2021-11-15T15:23:36.196Z",
+         "img":"https://assets.thetanarena.com/skin/avatar/1001.png",
+         "userInfo": {
+            "ownerId": "619279f83e00df6b8f8b7bfa",
+            "ownerAddress": "0x8a12245b67ebd013b62fee4d2706df626bef798a", 
+            "tokenId": "86291636989756", 
+            "refId": "61927b3cdc1ef1a7e07c1590"
+         },
+
+         "type": {
+            "nameHeroes":"Free",
+            "priceUsd":500,
+            "priceCrypto":5,
+            "rarity":"Legendary",
+            "offer":"Sale",
+            "class":"Tank",
+            "skin":"Rare"
+         },
+         "infoHeroes": {
+            "hp":5000,
+            "dmg":600,
+            "level":5,
+            "att_spd":4,
+            "speed":0.5,
+            "battle":68,
+            "battleMax":240,
+            "battleWin":15,
+            "battleDraw":0,
+            "battleLose":7,
+            "winBonus":2.2,
+            "daily_Battles":15,
+            "trophyCLass":"E"
+         }
+      },  
+
+      {
+         "id":"mPSS5dd2tkReavOycpkf",
+         "created":"2021-11-15T15:23:36.196Z",
+         "img":"https://assets.thetanarena.com/skin/avatar/8001.png",
+         "userInfo": {
+            "ownerId": "619279f83e00df6b8f8b7bfa",
+            "ownerAddress": "0x8a12245b67ebd013b62fee4d2706df626bef798a", 
+            "tokenId": "86291636989756", 
+            "refId": "61927b3cdc1ef1a7e07c1590"
+         },
+         "type": {
+            "nameHeroes":"Four",
+            "priceUsd":500,
+            "priceCrypto":5,
+            "rarity":"Legendary",
+            "offer":"Sale",
+            "class":"Tank",
+            "skin":"Rare"
+         },
+         "infoHeroes": {
+            "hp":5000,
+            "dmg":600,
+            "att_spd":2,
+            "speed":0.5,
+            "level":5,
+            "battle":68,
+            "battleMax":240,
+            "battleWin":25,
+            "battleDraw":6,
+            "battleLose":10,
+            "winBonus":3,
+            "daily_Battles":25,
+            "trophyCLass":"D"
+         }
       }
    ]
 }
